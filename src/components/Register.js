@@ -200,7 +200,7 @@ const Register = (props) => {
               <div className='form-group'>
                   <label htmlFor='password'>Password</label>
                   <Input
-                  type='text'
+                  type='password'
                   className='form-control'
                   name='password'
                   value={ password }
