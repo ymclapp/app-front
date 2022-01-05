@@ -7,6 +7,7 @@ import AddTutorial from './components/AddTutorial';
 import Tutorial from './components/Tutorial';
 import TutorialsList from './components/TutorialsList';
 import Register from './components/Register';
+import Profile from './components/Profile';
 
 function App() {
   return (
@@ -35,6 +36,7 @@ function App() {
           <Route exact path='/add' component={AddTutorial} />
           <Route path='/tutorials/:id' component={Tutorial} />
           <Route exact path='/register' component={Register} />
+          <Route exact path='./profile' component={Profile} />
         </Switch>
       </div>
     </div>
