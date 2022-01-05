@@ -15,3 +15,7 @@
 1.  react: 17.0.2
 2.  react-bootstrap: 2.1.0
 3.  react-dom: 17.0.2
+4.  axios:  0.19.2
+5.  react-validation:  3.0.7
+6.  validator:  13.7.0
+7.  bootstrap: 4.4.1
