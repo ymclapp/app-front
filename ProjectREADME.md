@@ -2,6 +2,7 @@
 1.  https://www.bezkoder.com/react-node-express-postgresql/
 2.  https://github.com/bezkoder/react-crud-web-api
 3.  https://github.com/bezkoder/react-hooks-crud-web-api
+4.  https://www.bezkoder.com/react-hooks-jwt-auth/
 
 ##  Dependencies:
 
