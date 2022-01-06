@@ -101,9 +101,9 @@ function App() {
         ) : (
           <div className='navbar-nav ml-auto'>
             <li className='nav-item'>
-              <link to={'/login'} className='nav-link'>
+              <Link to={'/login'} className='nav-link'>
                 Login
-              </link>
+              </Link>
             </li>
 
             <li className='nav-item'>
