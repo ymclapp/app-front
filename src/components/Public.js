@@ -13,7 +13,7 @@ function publicContent() {
                         <Card.Title className='title'>
                             Cody Jinks
                         </Card.Title>
-                        <Card.Subtitle className='mb-2 text muted text-center'>No Words</Card.Subtitle>
+                        <Card.Subtitle className='mb-2 text-muted text-center'>No Words</Card.Subtitle>
                         <Card.Body>
                             <Card.Text>
                                 My whole view of the world has changed<br />
