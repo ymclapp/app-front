@@ -24,7 +24,7 @@ function publicContent() {
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer className='text-center'>
-                            <Button variant='info' href='https://www.youtube.com/watch?v=DOWgL6sX0Gg&list=PLbHSifRxmcwAkAGUtvYrnIwB4P755q4KV&index=19'>Video</Button>
+                            <Button variant='primary' href='https://www.youtube.com/watch?v=DOWgL6sX0Gg&list=PLbHSifRxmcwAkAGUtvYrnIwB4P755q4KV&index=19'>Video</Button>
                         </Card.Footer>
                     </Card>
 
@@ -44,7 +44,7 @@ function publicContent() {
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer className='text-center'>
-                            <Button variant='info' href='https://www.youtube.com/watch?v=B5lBzKGSxNA'>Video</Button>
+                            <Button variant='primary' href='https://www.youtube.com/watch?v=B5lBzKGSxNA'>Video</Button>
                         </Card.Footer>
                     </Card>
 
@@ -63,7 +63,7 @@ function publicContent() {
                             </Card.Text>
                         </Card.Body>
                         <Card.Footer className='text-center'>
-                            <Button variant='info' href='https://www.youtube.com/watch?v=NtcQjDUWhZs'>Video</Button>
+                            <Button variant='primary' href='https://www.youtube.com/watch?v=NtcQjDUWhZs'>Video</Button>
                         </Card.Footer>
                     </Card>
 
