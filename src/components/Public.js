@@ -46,8 +46,8 @@ function publicContent() {
                                 I just can't find the words<br />
                             </Card.Text>
                         </Card.Body>
-                        <Card.Footer>
-                            <Button href='https://www.youtube.com/watch?v=DOWgL6sX0Gg&list=PLbHSifRxmcwAkAGUtvYrnIwB4P755q4KV&index=19'>Video</Button>
+                        <Card.Footer className='text-center'>
+                            <Button variant='info' href='https://www.youtube.com/watch?v=DOWgL6sX0Gg&list=PLbHSifRxmcwAkAGUtvYrnIwB4P755q4KV&index=19'>Video</Button>
                         </Card.Footer>
                     </Card>
 
@@ -87,8 +87,8 @@ function publicContent() {
                                 Don't let him go<br />
                             </Card.Text>
                         </Card.Body>
-                        <Card.Footer>
-                            <Button href='https://www.youtube.com/watch?v=B5lBzKGSxNA'>Video</Button>
+                        <Card.Footer className='text-center'>
+                            <Button variant='info' href='https://www.youtube.com/watch?v=B5lBzKGSxNA'>Video</Button>
                         </Card.Footer>
                     </Card>
 
@@ -147,8 +147,8 @@ function publicContent() {
                                 Honey, you can't hide your lyin' eyes<br />
                             </Card.Text>
                         </Card.Body>
-                        <Card.Footer>
-                            <Button className='text-center' href='https://www.youtube.com/watch?v=NtcQjDUWhZs'>Video</Button>
+                        <Card.Footer className='text-center'>
+                            <Button variant='info' href='https://www.youtube.com/watch?v=NtcQjDUWhZs'>Video</Button>
                         </Card.Footer>
                     </Card>
 
